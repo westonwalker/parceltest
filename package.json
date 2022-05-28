@@ -2,7 +2,7 @@
   "name": "parceltest",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
